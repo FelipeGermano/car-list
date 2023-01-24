@@ -1,0 +1,23 @@
+{
+  "name": "modulo-1",
+  "version": "1.0.0",
+  "description": "Desenvolvido por Felipe Germano",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "start-dev": "nodemon index.js"
+  },
+  "keywords": [
+    "modulo-1"
+  ],
+  "author": "Felipe Germano",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.18.2",
+    "jsonfile": "^6.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
